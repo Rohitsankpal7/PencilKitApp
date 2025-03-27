@@ -26,3 +26,27 @@ A fully functional and modern Drawing App built using **SwiftUI** and **PencilKi
 ![Simulator Screenshot - iPhone 16 Pro - 2025-03-27 at 13 07 59](https://github.com/user-attachments/assets/11423862-cd9e-41d5-856d-dabc12643c3b) 
 ![Simulator Screenshot - iPhone 16 Pro - 2025-03-27 at 13 07 55](https://github.com/user-attachments/assets/099225d5-2ae3-4052-b123-12dde06778b6)
 
+## Setup
+ Clone the repo: 
+https://github.com/Rohitsankpal7/PencilKitApp/
+
+## 🤝 Contributing
+
+Pull requests and suggestions are welcome!  
+Feel free to fork and improve the project.
+
+---
+
+## 📩 Contact
+
+**Rohit Sankpal**  
+[iOS Developer | Swift Enthusiast]  
+📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/rohit-sankpal-b50549105/)
+
+---
+
+## ⭐️ Show your Support
+
+If you like this project, don’t forget to **Star ⭐️ the repo**!
+
+
